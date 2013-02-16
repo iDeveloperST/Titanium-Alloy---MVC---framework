@@ -1,0 +1,9 @@
+<Alloy>
+	<View id="headerContainer">
+		    <ImageView id="headerListBtnHolder" />
+		    	<Button id="menu01" />
+				<Button id="menu02" />
+				<Button id="menu03" />
+			<Button id="addRemoveNeedBtn" />
+	</View>
+</Alloy>

@@ -1,0 +1,7 @@
+"#win":{
+	top:'55',
+	height:Ti.UI.SIZE,
+	width:Ti.UI.SIZE,
+	backgroundColor:'#000'
+
+}

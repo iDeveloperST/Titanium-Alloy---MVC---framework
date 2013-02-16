@@ -1,0 +1,21 @@
+{
+	"global": {
+				"firstRun":"HasLaunchedOnce"
+			  }, 
+	"env:development": {
+			 "JSON_URL": "http://services.pixelmii.com",
+			 "NEED_IMAGE_SIZE": "-640x640",
+			 "IMAGE_FILETYPE": ".jpg"
+	}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"os:ios": {
+				"width":360, 
+				"height":728
+			  }, 
+	"os:android": {
+					"width":360, 
+					"height":728
+				  }, 
+	"dependencies": {}
+}

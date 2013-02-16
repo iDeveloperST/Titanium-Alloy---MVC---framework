@@ -1,0 +1,12 @@
+<Alloy>
+	<Window>
+		<ScrollableView id="scroller">
+			<ImageView width="200" height="300" image="images/settings_button_bg@2x.png"/>
+			<ImageView width="200" height="300" image="test_image@2x.png"/>
+			<ImageView width="200" height="300" image="test_image@2x.png"/>
+			<View backgroundColor="#0a0">
+				<Label>View 2</Label>
+			</View>
+		</ScrollableView>
+	</Window>
+</Alloy>

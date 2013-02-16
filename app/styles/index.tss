@@ -1,0 +1,20 @@
+".container": {
+	backgroundColor:"#FFF"
+},
+
+'#clouds': {
+	height:'402dp',
+	width:'102dp',
+	bottom:0,
+	image:'brandmark.gif',
+	zIndex:-1
+},
+
+"#menuBtn":{
+	top:0, left:0,
+	height:'55px',
+	width:'60px',
+	backgroundColor:'transparent',
+	color:'transparent',
+	backgroundImage:''
+}

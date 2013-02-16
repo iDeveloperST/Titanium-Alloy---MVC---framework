@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="appcontain">
+		<Require id="header" src="headerView"/>
+		<Require id="needsMainView" src="needsMainView"/>
+	</View>
+</Alloy>

@@ -1,0 +1,5 @@
+"#appcontain":{
+	backgroundColor:"#FFF",
+	height:Ti.UI.SIZE,
+	width:Ti.UI.SIZE,
+}

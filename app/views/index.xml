@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="Maincontainer" title="Section">
+		<Require id="menuListing" src="menuList"/>
+		<Require id="container" src="appContainer"/>
+		<Button id="menuBtn" />
+
+	</Window>
+</Alloy>
+
